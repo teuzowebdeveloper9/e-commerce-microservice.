@@ -1,0 +1,14 @@
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\bin\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.deps.json
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\bin\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.dll
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\bin\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.pdb
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.AssemblyInfoInputs.cache
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.AssemblyInfo.cs
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.csproj.CoreCompileInputs.cache
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.dll
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\refint\demoeEcommerce.SharedLibrarySolution.dll
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.pdb
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\ref\demoeEcommerce.SharedLibrarySolution.dll
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\bin\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.runtimeconfig.json
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.csproj.AssemblyReference.cache
+C:\Users\mateus\Desktop\e-commerce-microservice\demoeEcommerce.SharedLibrarySolution\obj\Debug\net9.0\demoeEcommerce.SharedLibrarySolution.genruntimeconfig.cache
