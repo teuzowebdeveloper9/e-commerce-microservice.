@@ -1,3 +1,10 @@
-﻿namespace demoeEcommerce.SharedLibrarySolution.Response;
+﻿namespace demoeEcommerce.SharedLibrarySolution.Response
+{
 
-public record Response(bool flag=false, string Message = null! );
+    public class ResponseEntity
+    {
+        public bool Flag { get; set; } = false;
+        public  string Message { get; set; } = string.Empty;
+    }
+
+}
